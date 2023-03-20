@@ -39,7 +39,7 @@ submit.addEventListener("click",(e)=>{
 
 })
 
-getweather("Delhi")
+getweather("Mumbai")
 const options1 = {
 	method: 'GET',
 	headers: {
