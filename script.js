@@ -39,7 +39,7 @@ submit.addEventListener("click",(e)=>{
 
 })
 
-getweather("Mumbai")
+getweather("Delhi")
 const options1 = {
 	method: 'GET',
 	headers: {
@@ -84,7 +84,7 @@ submit.addEventListener("click",(e)=>{
 
 })
 
-getweather1("Mumbai")
+getweather1("Delhi")
 const getweather4=(city) =>{
 
 	cityName.innerHTML = city
@@ -122,7 +122,7 @@ const getweather4=(city) =>{
  
  })
  
- getweather4("Mumbai")
+ getweather4("Delhi")
 
 const getweather3=(city) =>{
 
@@ -162,7 +162,7 @@ const getweather3=(city) =>{
  
  })
  
- getweather3("Mumbai")
+ getweather3("delhi")
 
  const getweather2=(city) =>{
 
@@ -202,4 +202,4 @@ const getweather3=(city) =>{
  
  })
  
- getweather2("Mumbai")
+ getweather2("Delhi")
